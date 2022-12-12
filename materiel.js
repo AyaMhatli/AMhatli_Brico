@@ -1,8 +1,9 @@
-class Car{
-    //  Hashcode="";
+class Materiel{
+   TotalLocation =0;
       constructor() {
           this.price = [];
-         // Hashcode=this.Hashcode;
+          this.TotalLocation=this.TotalLocation;
+    
           
       }
   
@@ -34,4 +35,4 @@ class Car{
       }
   
   }
-  module.exports = Car;
+  module.exports = Materiel;
